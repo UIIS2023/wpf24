@@ -1,0 +1,96 @@
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\DiskontPica.csproj.AssemblyReference.cache
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmDobavljac.g.cs
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmFaktura.g.cs
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmKupac.g.cs
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmKupovina.g.cs
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmNarudzbina.g.cs
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmPice.g.cs
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmRacun.g.cs
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmVrstaPica.g.cs
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmZalihe.g.cs
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmZaposleni.g.cs
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\DiskontPica_MarkupCompile.cache
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\DiskontPica_MarkupCompile.lref
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\bin\Debug\net6.0-windows\DiskontPica.exe
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\bin\Debug\net6.0-windows\DiskontPica.deps.json
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\bin\Debug\net6.0-windows\DiskontPica.runtimeconfig.json
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\bin\Debug\net6.0-windows\DiskontPica.dll
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\bin\Debug\net6.0-windows\DiskontPica.pdb
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmDobavljac.baml
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmFaktura.baml
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmKupac.baml
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmKupovina.baml
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmNarudzbina.baml
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmPice.baml
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmRacun.baml
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmVrstaPica.baml
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmZalihe.baml
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmZaposleni.baml
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\DiskontPica.g.resources
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\DiskontPica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\DiskontPica.AssemblyInfoInputs.cache
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\DiskontPica.AssemblyInfo.cs
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\DiskontPica.csproj.CoreCompileInputs.cache
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\DiskontPica.csproj.CopyComplete
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\DiskontPica.dll
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\refint\DiskontPica.dll
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\DiskontPica.pdb
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\DiskontPica.genruntimeconfig.cache
+C:\Users\38169\source\repos\DiskontPica\DiskontPica\obj\Debug\net6.0-windows\ref\DiskontPica.dll
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\bin\Debug\net6.0-windows\DiskontPica.exe
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\bin\Debug\net6.0-windows\DiskontPica.deps.json
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\bin\Debug\net6.0-windows\DiskontPica.runtimeconfig.json
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\bin\Debug\net6.0-windows\DiskontPica.dll
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\bin\Debug\net6.0-windows\DiskontPica.pdb
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\DiskontPica.csproj.AssemblyReference.cache
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmDobavljac.g.cs
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmFaktura.g.cs
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmKupac.g.cs
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmKupovina.g.cs
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmNarudzbina.g.cs
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmPice.g.cs
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmRacun.g.cs
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmVrstaPica.g.cs
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmZalihe.g.cs
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmZaposleni.g.cs
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\DiskontPica_MarkupCompile.cache
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\DiskontPica_MarkupCompile.lref
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmDobavljac.baml
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmFaktura.baml
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmKupac.baml
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmKupovina.baml
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmNarudzbina.baml
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmPice.baml
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmRacun.baml
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmVrstaPica.baml
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmZalihe.baml
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\Forme\FrmZaposleni.baml
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\DiskontPica.g.resources
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\DiskontPica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\DiskontPica.AssemblyInfoInputs.cache
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\DiskontPica.AssemblyInfo.cs
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\DiskontPica.csproj.CoreCompileInputs.cache
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\DiskontPica.csproj.CopyComplete
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\DiskontPica.dll
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\refint\DiskontPica.dll
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\DiskontPica.pdb
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\DiskontPica.genruntimeconfig.cache
+C:\Users\38169\Desktop\DiskontPica IT10-2022\DiskontPica\obj\Debug\net6.0-windows\ref\DiskontPica.dll

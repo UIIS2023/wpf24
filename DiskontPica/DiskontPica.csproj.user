@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Forme\FrmDobavljac.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Forme\FrmFaktura.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Forme\FrmKupac.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Forme\FrmKupovina.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Forme\FrmNarudzbina.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Forme\FrmPice.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Forme\FrmRacun.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Forme\FrmVrstaPica.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Forme\FrmZalihe.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Forme\FrmZaposleni.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Forme\FrmDobavljac.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Forme\FrmFaktura.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Forme\FrmKupac.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Forme\FrmKupovina.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Forme\FrmNarudzbina.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Forme\FrmPice.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Forme\FrmRacun.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Forme\FrmVrstaPica.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Forme\FrmZalihe.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Forme\FrmZaposleni.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

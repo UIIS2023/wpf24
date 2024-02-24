@@ -1,0 +1,33 @@
+﻿<Window x:Class="DiskontPica.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DiskontPica"
+        mc:Ignorable="d"
+        Title="DISKONT PICA" Height="450" Width="800">
+    <Grid>
+        <Button Name="btnKupac" Content="Kupac" HorizontalAlignment="Left" Margin="30,91,0,0" Width="100" VerticalAlignment="Top" Click="btnKupac_Click" FontFamily="Arial" />
+        <Button Name="btnZaposleni" Content="Zaposleni" HorizontalAlignment="Left" Margin="30,134,0,0" Width="100" VerticalAlignment="Top" Click="btnZaposeleni_Click" FontFamily="Arial"/>
+        <Button Name="btnDobavljac" Content="Dobavljac" HorizontalAlignment="Left" Margin="30,178,0,0" Width="100" VerticalAlignment="Top" Click="btnDobavljac_Click" FontFamily="Arial"/>
+        <Button Name="btnNarudzbina" Content="Narudžbina" HorizontalAlignment="Left" Margin="663,80,0,0" Width="100" VerticalAlignment="Top" Click="btnNarudzbina_Click" FontFamily="Arial"/>
+        <Button Name="btnKupovina" Content="Kupovina" HorizontalAlignment="Left" Margin="663,112,0,0" Width="100" VerticalAlignment="Top" Click="btnKupovina_Click" FontFamily="Arial"/>
+        <Button Name="btnRacun" Content="Račun" HorizontalAlignment="Left" Margin="662,192,0,0" Width="100" VerticalAlignment="Top" Click="btnRacun_Click" FontFamily="Arial"/>
+        <Button Name="btnFaktura" Content="Faktura" HorizontalAlignment="Left" Margin="662,223,0,0" Width="100" VerticalAlignment="Top" Click="btnFaktura_Click" FontFamily="Arial"/>
+        <Button Name="btnZalihe" Content="Zalihe" HorizontalAlignment="Left" Margin="663,286,0,0" Width="100" VerticalAlignment="Top" Click="btnZalihe_Click" FontFamily="Arial"/>
+        <Button Name="btnPica" Content="Pica" HorizontalAlignment="Left" Margin="30,253,0,0" Width="100" VerticalAlignment="Top" Click="btnPica_Click" FontFamily="Arial"/>
+        <Button Name="btnVrstaPica" Content="Vrste pica" HorizontalAlignment="Left" Margin="30,288,0,0" Width="100" VerticalAlignment="Top" Click="btnVrstePica_Click" FontFamily="Arial"/>
+        <Button Name="btnDODAJ" Content="DODAJ" HorizontalAlignment="Left" Margin="137,376,0,0" Width="100" VerticalAlignment="Top" Click="btnDODAJ_Click" FontSize="18" FontWeight="Bold" FontFamily="Arial"/>
+        <Button Name="btnIZMENI" Content="IZMENI" HorizontalAlignment="Center" Margin="0,376,0,0" Width="100" VerticalAlignment="Top" Click="btnIZMENI_Click" FontSize="18" FontWeight="Bold" FontFamily="Arial"/>
+        <Button Name="btnOBRISI" Content="OBRIŠI" HorizontalAlignment="Left" Margin="569,376,0,0" Width="100" VerticalAlignment="Top" Click="btnOBRISI_Click" FontSize="18" FontWeight="Bold" FontFamily="Arial"/>
+        <DataGrid Name="dataGridCentralni" HorizontalAlignment="Center"
+                  Height="251" VerticalAlignment="Top" Width="442" AlternatingRowBackground="Olive" IsReadOnly="true" CanUserAddRows="False"
+                  SelectionUnit="FullRow" SelectionMode="Single" Margin="0,66,0,0"/>
+        <Label Content="DISKONT PICA" HorizontalAlignment="Center" Margin="0,10,0,0" Width="160"  VerticalAlignment="Top" FontSize="20" FontWeight="Bold" FontFamily="Arial"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="144" Margin="10,66,0,0" VerticalAlignment="Top" Width="141"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="82" Margin="10,235,0,0" VerticalAlignment="Top" Width="141"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="76" Margin="650,71,0,0" VerticalAlignment="Top" Width="126" RenderTransformOrigin="0.485,0.519"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="89" Margin="650,0,0,0" VerticalAlignment="Center" Width="128"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="41" Margin="650,276,0,0" VerticalAlignment="Top" Width="127"/>
+    </Grid>
+</Window>
